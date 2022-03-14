@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69874732444",
+    "project_id": "chatapp-c8401",
+    "storage_bucket": "chatapp-c8401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69874732444:android:853f07cd3738668282cc59",
+        "android_client_info": {
+          "package_name": "com.oceanmtech.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69874732444-10ov7lbf79st80jrkmg4qdf72sk6lt94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlIv2tMWLqNxBPdW4YMKGHxEpTCqq8Kcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69874732444-10ov7lbf79st80jrkmg4qdf72sk6lt94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

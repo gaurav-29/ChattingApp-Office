@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/itemCamera"
+        android:icon="@drawable/ic_videocamera"
+        app:showAsAction="always"
+        android:title="Camera" />
+
+    <item
+        android:id="@+id/itemCall"
+        android:title="Call"
+        android:icon="@drawable/ic_calls"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/itemCall2"
+        android:title="Call2" />
+
+</menu>
